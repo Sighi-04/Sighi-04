@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Sighi-04
 - 👀 I’m interested in software development in general
-- 🌱 I’m currently learning C++, C#, Python, Swift
-- 📫 You can contact me at filipposighinolfi@protonmail.com
+- 🌱 I’m currently learning Java
+- 📫 You can contact me at filippoandreasighinolfi@gmail.com
 
 <!---
 Sighi-04/Sighi-04 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
